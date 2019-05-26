@@ -6,10 +6,6 @@ body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
 }
-
-.header-left {
-  color: white;
-}
 a {
   text-decoration: none;
 }
@@ -52,15 +48,6 @@ a {
   background-color: #239b76;
 }
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
-}
-
 .btn {
   padding: 8px 24px;
   color: white;
@@ -94,6 +81,7 @@ header {
 
 .header-left {
   float: left;
+  color: white;
 }
 
 .header-right {
